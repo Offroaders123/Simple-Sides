@@ -1,4 +1,4 @@
-# Simple-Sides
+# Simple Sides
 Simple Sides is a resource pack that streamlines the side textures of Grass, Snowy Grass, Grass Path, Podzol, Mycelium, Crimson Nylium, and Warped Nylium!
 
 * Support for Bedrock Edition
