@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "block/dirt",
+    "top": "block/podzol_top",
+    "side": "block/podzol_top"
+  }
+}
+
+// Edited by Offroaders123 for the Simple Sides resource pack for Minecraft Java Edition.
