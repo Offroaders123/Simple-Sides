@@ -2,10 +2,10 @@
   "format_version": 2,
 
   "header": {
+    "name": "Â§eSimple Sides",
     "description": "A simple change to multiple blocks' side textures! Created by Offroaders123 for Minecraft Bedrock Edition",
-    "name": "§eSimple Sides",
     "uuid": "7d3d857b-7e04-4d02-bb3b-d0d1048cb52f",
-    "version": [ 1, 16, 0 ],
+    "version": [ 1, 16, 200 ],
     "min_engine_version": [ 1, 13, 0 ]
   },
   "modules": [
@@ -13,14 +13,14 @@
       "description": "A simple change to multiple blocks' side textures! Created by Offroaders123 for Minecraft Bedrock Edition",
       "type": "resources",
       "uuid": "26220a49-dc2b-4b88-85ce-f870dbc704d9",
-      "version": [ 1, 16, 0 ]
+      "version": [ 1, 16, 200 ]
     }
   ],
   "metadata": {
     "authors": [
       "Offroaders123"
     ],
-    "url": "https://sites.google.com/view/the-melon-slice/home"
+    "url": "https://github.com/Offroaders123"
   }
 }
 
