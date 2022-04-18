@@ -19,7 +19,7 @@ You can share this resource pack, but please refer others to the official [MCPED
 
 Feel free to include Simple Sides in your own resource pack! My only requests are for a mention of my username, "Offroaders123", and a link back to either this MCPEDL post, my MCPEDL profile, this GitHub Repository, or my GitHub profile. Thanks!
 
-Found a bug? Have a feature suggestion? Feel free to [contact me by email](mailto:offroaders123@gmail.com), or submit a pull request to this GitHub Repository!
+Found a bug? Have a feature suggestion? Feel free to [contact me by email](mailto:offroaders123@gmail.com), or submit a new issue to this GitHub Repository!
 
 ---
 
@@ -29,8 +29,3 @@ Found a bug? Have a feature suggestion? Feel free to [contact me by email](mailt
 <img src="resources/screenshots-bedrock/screenshot_3.png">
 <img src="resources/screenshots-bedrock/screenshot_4.png">
 <img src="resources/screenshots-bedrock/screenshot_5.png">
-
----
-
-[Download for Bedrock Edition &#11015;](https://drive.google.com/drive/folders/1SRJwQsGecCwhXlnS-9Ee0FJIZ-kgvFqv)  
-[Download for Java Edition &#11015;](https://drive.google.com/drive/folders/1LUQsPgm9KDIPfvG_r22B2djeyOQh6bcz)
