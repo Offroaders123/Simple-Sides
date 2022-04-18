@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img width="64" src="icon-512.png">
+      <img width="64" src="resources/icon-512.png">
     </td>
     <td>
       <h1>Simple Sides</h1>
@@ -23,12 +23,12 @@ Found a bug? Have a feature suggestion? Feel free to [contact me by email](mailt
 
 ---
 
-<img src="Bedrock/screenshots/screenshot_0.png">
-<img src="Bedrock/screenshots/screenshot_1.png">
-<img src="Bedrock/screenshots/screenshot_2.png">
-<img src="Bedrock/screenshots/screenshot_3.png">
-<img src="Bedrock/screenshots/screenshot_4.png">
-<img src="Bedrock/screenshots/screenshot_5.png">
+<img src="resources/screenshots-bedrock/screenshot_0.png">
+<img src="resources/screenshots-bedrock/screenshot_1.png">
+<img src="resources/screenshots-bedrock/screenshot_2.png">
+<img src="resources/screenshots-bedrock/screenshot_3.png">
+<img src="resources/screenshots-bedrock/screenshot_4.png">
+<img src="resources/screenshots-bedrock/screenshot_5.png">
 
 ---
 
